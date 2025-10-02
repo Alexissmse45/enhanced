@@ -1,0 +1,19 @@
+-kung git bash
+avtivate the virtual environment:
+source venv/Scripts/Activate
+
+install the dependencies:
+pip install -r requirements.txt
+
+run 1st
+python train_model.py
+
+not necessary
+python model/cnn_model.py
+python prediction/advice.py
+python prediction/predict.py
+
+
+to run the system:
+python ui.py
+
